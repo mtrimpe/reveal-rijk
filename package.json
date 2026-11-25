@@ -1,0 +1,21 @@
+{
+  "name": "reveal-rijk",
+  "version": "1.0.0",
+  "scripts": {
+    "export": "node export-pdf.mjs",
+    "merge": "node merge-pdf.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "EUPL-1.2",
+  "description": "reveal.js theme following the Rijksoverheid presentation layouts",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "playwright": "^1.58.2",
+    "puppeteer": "^24.40.0"
+  },
+  "devDependencies": {
+    "pptx2json": "^0.0.10"
+  },
+  "private": true
+}

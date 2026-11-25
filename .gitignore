@@ -1,0 +1,8 @@
+node_modules/
+screenshots/
+reference/
+/tmp/
+.DS_Store
+.claude/
+# Officiele sjablonen van rijkshuisstijl.nl (achter login); niet herdistribueren.
+Presentatie Rijksoverheid Selectie/
